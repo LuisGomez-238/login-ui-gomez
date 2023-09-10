@@ -24,9 +24,10 @@ h2 {
 }
 
 .form-group {
-    width: 100%;
-    padding: 10px;
-   
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-bottom: 20px;
 }
 
 label {
@@ -50,6 +51,7 @@ input[type="submit"] {
     border-radius: 3px;
     cursor: pointer;
     width: 100%;
+    
 }
 
 input[type="submit"]:hover {
