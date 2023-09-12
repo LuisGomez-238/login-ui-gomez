@@ -1,6 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #f38638;
+    background-image: url('DRE02181910.png');
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
